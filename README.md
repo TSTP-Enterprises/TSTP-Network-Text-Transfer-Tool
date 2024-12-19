@@ -72,7 +72,7 @@ Your support helps us maintain and enhance this tool. Consider supporting us thr
 
 ### 🌟 Monthly Sponsorship
 - [GitHub Sponsors](https://github.com/sponsors/TSTP-Enterprises)
-- [Patreon](https://www.patreon.com/tstp)
+- [Patreon](https://www.patreon.com/thesolutionstoproblems)
 
 ### 💎 Enterprise Support
 - Custom feature development
